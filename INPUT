@@ -1,0 +1,7 @@
+2		!Size of input layer
+200 		!Size of hidden layer
+2		!Size of output layer
+10000		!Number of epochs
+2.0		!Learning rate (eta)
+train.dat	!Path of training data
+test.dat	!Path of testing data
